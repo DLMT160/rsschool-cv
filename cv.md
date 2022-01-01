@@ -26,11 +26,11 @@
   <li>2014-2016 Saint Petersburg University of Telecommunications</li>
 </ul>
 
-<h3 id="example">Code example: </h3>
-<p>function multiply(a, b){
-return a * b;
-}
-</p>
+<h2 id="example"><strong>Code example:</strong></h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function multiply (a, b) {
+  return a * b
+} 
+</code></pre></div></div>
 
 <h3 id="languages">Languages:</h3>
 <ul>
