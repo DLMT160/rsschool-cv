@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
 <h1>Berg Artem</h1>
 
@@ -15,7 +14,7 @@
 <ul>
   <li>HTML5, CSS3</li>
   <li>JavaScript Basics</li>
-  <li>Git and GitHub
+  <li>Git and GitHub</li>
   <li>Adobe photoshop</li>
   <li>Adobe Premiere </li>
 </ul>
@@ -38,4 +37,3 @@
   <li>English - Pre-Intermediate</li>
 </ul>
 
-</html >
