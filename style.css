@@ -94,9 +94,6 @@ body {
   height: 28px;
 }
 
-.socialItem:not(:last-child) {
-  margin-right: 3px;
-}
 
 html {
   scroll-behavior: smooth;
